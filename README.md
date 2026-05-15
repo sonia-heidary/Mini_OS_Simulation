@@ -109,7 +109,7 @@ pip install -r requirements.txt
 ### 3. Run the System
 
 ```bash
-python main.py
+python start.py
 ```
 
 ---
